@@ -106,6 +106,8 @@
 - [ElevenLabs](../../tools/application.md#elevenlabs) -️ 語音合成工具
 - [Speechify](../../tools/application.md#speechify) - 語音轉換工具
 - [文字MP3專業AI版](../../tools/application.md#iqt-ai) - 語音轉換工具
+- [STT Service](../../tools/application.md#stt-service) - 語音轉換工具
+- [Skybox AI](../../tools/application.md#skybox-ai) - 環景圖創作工具
 - [Synthesia](../../tools/application.md#synthesia) - 影片製作工具
 - [BRONCI](../../tools/application.md#bronci) - 語音辨識工具
 - [Studio](../../tools/application.md#studio) - 語音工具

@@ -756,3 +756,36 @@ Microsoft的AI助手工具，整合於Microsoft生態系統中，提供智能寫
 - 流行用語辨識
 - 虛擬主播製作
 - 音樂創作工具
+
+---
+
+<!-- ### STT Service -->
+<h3 id="stt-service">STT Service</h3>
+
+![語音辨識](https://img.shields.io/badge/-語音辨識-blue) ![訂閱制](https://img.shields.io/badge/-訂閱制-purple) ![台灣](https://img.shields.io/badge/-台灣-purple)
+
+**簡介**  
+由碩網資訊開發的語音辨識服務，用戶可以上傳檔案獲得準確的辨識結果，並支援多種語言。
+
+**基本資訊**
+- 🔗 官網：https://www.intumit.tw/stt-service_zh/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：台灣
+- 💰 計費方式：依專案
+
+---
+
+<!-- ### Skybox AI -->
+<h3 id="skybox-ai">Skybox AI</h3>
+
+![環景圖工具](https://img.shields.io/badge/-環景圖工具-blue) ![混合計費](https://img.shields.io/badge/-混合計費-orange) ![國際](https://img.shields.io/badge/-國際-blue) 
+
+**簡介**  
+由 Blockade Labs 開發的AI工具，能透過文字提示快速生成 360° 全景環境，以加速沉浸式場景的創作流程。
+
+**基本資訊**
+- 🔗 官網：https://skybox.blockadelabs.com/
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：國際
+- 💰 計費方式：訂閱, 次數
+- 📋 價格方案：https://skybox.blockadelabs.com/membership, https://skybox.blockadelabs.com/api-membership
