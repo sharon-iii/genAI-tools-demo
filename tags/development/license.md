@@ -41,6 +41,7 @@
 - [FedGPT](../../tools/development.md#fedgpt) - 領域型AI助理設計
 - [MediaTek DaVinci](../../tools/development.md#mediatek-davinci) - 達哥生成式AI服務平台
 - [SuperBot X](../../tools/development.md#superbot-x) - AI客服
+- [SmartLLM](../../tools/development.md#smartllm) - AI客服對話服務
 
 #### 國際開發
 - [Cohere](../../tools/development.md#cohere) - 企業生成式AI應用開發

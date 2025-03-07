@@ -15,6 +15,9 @@
 #### 領域別RAG問答
 - [FedGPT](../../tools/development.md#fedgpt)
 
+#### AI客服對話服務
+- [SmartLLM](../../tools/development.md#smartllm) - AI客服對話服務
+
 ---
 
 <!-- ### 國際 -->

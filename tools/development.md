@@ -594,3 +594,22 @@ LangChain的擴充模組，專門用於構建和運行多代理應用以及RAG�
 - 醫療產業
 - 媒體/娛樂
 - 教育領域
+
+---
+
+<!-- ### SmartLLM -->
+<h3 id="smartllm">SmartLLM</h3>
+
+![閉源](https://img.shields.io/badge/-閉源-red) ![台灣](https://img.shields.io/badge/-台灣-orange)
+
+**簡介**  
+由碩網資訊開發，提供以較低成本打造聊天機器人的解決方案。其中使用Azure OpenAI的LLM處理上傳的文件來生成答案。
+
+**基本資訊**
+- 🔗 官網：https://www.intumit.tw/smartllm_zh/
+- 💻 API支援：❌ 不提供
+- 🌐 研發據點：台灣
+- 💰 計費方式：依專案
+
+**支援模型**
+- Azure OpenAI 服務所提供的模型
