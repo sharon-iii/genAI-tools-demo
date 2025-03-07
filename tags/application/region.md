@@ -3,17 +3,18 @@
 <!-- ### 台灣 -->
 <h3 id="taiwan">🎯 台灣</h3>
 
-以下是由台灣研發的開發工具：
+以下是由台灣研發的應用工具：
 
-#### RAG問答與Agent設計
-- [SuperBot X](../../tools/development.md#superbot-x)
-- [MediaTek DaVinci](../../tools/development.md#mediatek-davinci)
-- [波特人 BOTRUN](../../tools/development.md#botrun)
-- [CaiGunn](../../tools/development.md#caigunn)
-- [MaiAgent](../../tools/development.md#maiagent)
-
-#### 領域別RAG問答
-- [FedGPT](../../tools/development.md#fedgpt)
+#### 
+- [SparkAmplify](../../tools/application.md#sparkamplify) - 行銷工具 (美國、台灣)
+- [Super 8 AI](../../tools/application.md#super-8-ai) - 客服工具
+- [文字MP3專業AI版](../../tools/application.md#iqt-ai) - 語音工具
+- [Vitals ESP GenAI](../../tools/application.md#vitals-esp-genai) - 知識管理
+- [AISKM](../../tools/application.md#aiskm) - 知識管理
+- [SmartRobot](../../tools/application.md#smartrobot) - 客服平台
+- [BRONCI](../../tools/application.md#bronci) - 語音辨識
+- [Studio](../../tools/application.md#studio) - 語音工具
+- [STT Service](../../tools/application.md#stt-service) - 語音辨識
 
 ---
 
@@ -23,28 +24,30 @@
 以下是其他國家研發的開發工具：
 
 #### 美加 系列
-- [Cohere](../../tools/development.md#cohere)
-- [LibreChat](../../tools/development.md#librechat)
-- [Forefront](../../tools/development.md#forefront)
-- [Forefront (AI assistants)](../../tools/development.md#forefront-ai-assistants)
-- [LlamaIndex](../../tools/development.md#llamaindex)
-- [LlamaIndex.TS](../../tools/development.md#llamaindex-ts)
-- [Chroma](../../tools/development.md#chroma)
-- [Pinecone]((../../tools/development.md#pinecone))
-- [Redis Vector Database](../../tools/development.md#redis-vector-database)
-- [PGVector](../../tools/development.md#pgvector)
-- [SQLite-VSS](../../tools/development.md#sqlite-vss)
-- [LangChain](../../tools/development.md#langchain)
-- [LangSmith](../../tools/development.md#langsmith)
-- [LangFlow](../../tools/development.md#langflow)
-- [LangGraph](../../tools/development.md#langgraph)
-- [Ollama](../../tools/development.md#ollama)
-- [FlowiseAI](../../tools/development.md#flowiseai)
+- [Gamma](../../tools/application.md#gamma) - 簡報工具
+- [Phind](../../tools/application.md#phind) - 開發助手
+- [Wordtune](../../tools/application.md#wordtune) - 寫作助手
+- [HyperWrite](../../tools/application.md#hyperWrite) - 寫作助手
+- [Mem](../../tools/application.md#mem) - 筆記工具
+- [Rewind](../../tools/application.md#rewind) - 個人助理
+- [Sybill](../../tools/application.md#sybill) - 銷售助手
+- [Elicit](../../tools/application.md#elicit) - 研究助手
+- [Compose AI](../../tools/application.md#compose-ai) - 寫作助手
+- [Consensus](../../tools/application.md#consensus) - 研究助手
+- [Merlin](../../tools/application.md#merlin) - 瀏覽助手
+- [Describely](../../tools/application.md#Describely) - 行銷助手
+- [AI2sql](../../tools/application.md#ai2sql) -資料庫工具
+- [scite](../../tools/application.md#scite) - 研究助手
+- [SparkAmplify](../../tools/application.md#sparkamplify) - 行銷工具 (美國、台灣)
+- [Microsoft Copilot](../../tools/application.md#microsoft-copilot) - AI助手
+
 
 #### 歐洲 系列
-- [Quivr](../../tools/development.md#quivr) (法國)
-- [Haystack](../../tools/development.md#haystack) (德國)
+- [ElevenLabs](../../tools/application.md#elevenlabs) - 語音工具 (英國)
+- [Synthesia](../../tools/application.md#synthesia) - 影像工具 (英國)
+- [Cogram](../../tools/application.md#cogram) - 會議助手 (德國)
 
 #### 其他
-- [Jan](../../tools/development.md#jan) (新加坡)
-
+- [Speechify](../../tools/application.md#speechify) - 語音工具
+- [Qodo Merge](../../tools/application.md#qodo-merge) - 開發工具 (以色列)
+- [Skybox AI](../../tools/application.md#skybox-ai) - 環景圖工具
