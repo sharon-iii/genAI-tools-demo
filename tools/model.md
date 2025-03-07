@@ -246,4 +246,71 @@ Llama-3-Taiwan-70B 是一個由 MiuLab 基於 LLaMa 3 架構研發的專為台�
 - 🤖 開源連結：https://huggingface.co/APMIC/caigun-lora-model-34B-v2
 - 💻 API支援：✅ 提供
 - 🌐 研發據點：台灣
- 
+
+---
+
+<!-- ### Llama 3.3 70B -->
+<h3 id="llama-3-3-70b">Llama 3.3 70B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**  
+由 Meta 開發的多國語言大型語言模型，具備先進的語言理解與生成能力。（請補充完整描述）
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/
+- 🤖 開源連結：[Link](https://huggingface.co/meta-llama/Llama-3.3-70B...) 
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<!-- ### Llama 3.2 11B or 90B, 1B or 3B -->
+<h3 id="llama-3-2">Llama 3.2 11B or 90B, 1B or 3B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**  
+由 Meta 開發的多模態 AI 模型，提供多種參數規模以滿足不同應用需求。（請補充完整描述）
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/
+- 🤖 開源連結：[Link](https://huggingface.co/meta-llama/Llama-3.2-90...)
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<!-- ### Llama 3.1 405B -->
+<h3 id="llama-3-1-405b">Llama 3.1 405B</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green)
+
+**簡介**  
+由 Meta 開發的多國語言大型語言模型，擁有極長的上下文處理能力。（請補充完整描述）
+
+**基本資訊**
+- 🔗 官網：https://www.llama.com/
+- 🤖 開源連結：[Link](https://huggingface.co/meta-llama/Llama-3.1-405B)
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+---
+
+<!-- ### Whisper -->
+<h3 id="whisper">Whisper</h3>
+
+![國際](https://img.shields.io/badge/-國際-blue) ![開源](https://img.shields.io/badge/-開源-green) ![免費](https://img.shields.io/badge/-免費-yellow)
+
+**簡介**  
+由 OpenAI 開發的自動語音辨識(ASR)系統，經過大規模多語言、多任務訓練，能夠提供高準確度的語音轉文字服務。（請補充完整描述）
+
+**基本資訊**
+- 🔗 官網：https://github.com/openai/whisper
+- 🤖 開源連結：[Link](https://huggingface.co/openai/whisper-large-v3...)
+- 💻 API支援：✅ 提供
+- 🌐 研發據點：美國
+
+**計費方式**
+- 免費，依長度計費
+- 詳細價格：[Pricing](https://platform.openai.com/docs/pricing)

@@ -11,6 +11,10 @@
 - [Breeze-7B](../../tools/model.md#breeze-7b)
 - [Breexe-8x7B](../../tools/model.md#breexe-8x7b)
 - [CaiGunn 34B](../../tools/model.md#caigunn-34b)
+- [Llama 3.3 70B](../../tools/model.md#llama-3-3-70b)
+- [Llama 3.2 11B or 90B, 1B or 3B](../../tools/model.md#llama-3-2)
+- [Llama 3.1 405B](../../tools/model.md#llama-3-1-405b)
+- [Whisper](../../tools/model.md#whisper)
 
 ---
 
